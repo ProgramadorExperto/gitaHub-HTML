@@ -1,0 +1,77 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Educación</title>
+</head>
+
+<body>
+	<img src="image/LogoVWFP.svg" alt="Logo Estudiante" title="Estudiante con su logo" width="200px" height="100px" />
+    <h1>Hoja de Vida</h1>
+    <h2>Victor Flores</h2>
+<nav>
+     <ul>
+		<li><a href="index.html">Inicio</a></li>
+	    <li><a href="educacion.html">Educación</a></li>
+        <li><a href="experiencia.html">Experiencia</a></li>
+      </ul>
+ </nav>   
+ <hr color="blue" size=1>
+ <h2>Educación</h2> 
+
+<table border="1">
+	<tr>
+    	<th>Año</th>
+        <th>Institución</th>
+        <th>Lugar</th>
+        <th>Culminó</th>
+    </tr>
+	<tr>
+    	<th>2010</th>
+        <th>UPAO</th>
+        <th>Informática</th>
+        <th>Si</th>
+    </tr>
+	<tr>
+    	<th>2015</th>
+        <th>Nextu</th>
+        <th>On-Line</th>
+        <th>No</th>
+    </tr>
+</table>
+
+<h2>Educación</h2>
+
+<form name="frmEducacion" autocomplete="on" name="Formulario de datos">
+	<fieldset>
+    	<legend>Agregar educación</legend>
+        <label for="Anno">Año:</label>
+        <input type="date" required>
+        <p></p>
+        <label for="institucion" required>Institución:</label>
+        <input type="text" required>
+        <p></p>
+        
+    	Lugar:
+    	<textarea name="txtlugar" rows="5" required></textarea>
+        <p></p>
+        <label for="culmino">Culminó?:</label>
+        <p>
+        <input type="radio" name="culmino" value="Si" checked> Si<br>
+        <input type="radio" name="culmino" value="No"> No
+        <p>
+        <input type="submit" /></p>
+    </fieldset>
+</form>
+
+
+<hr color="blue" size=1>
+<footer>
+    <ul>
+    	<li>E-mail: victor.flores@intelsisac.com</li>
+        <li>Telefono: 986259576</li>
+        <li>Dirección: Av. Los Huertos de Cañete 16</li>
+    </ul>	
+</footer>
+</body>
+</html>

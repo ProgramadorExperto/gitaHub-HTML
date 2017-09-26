@@ -1,0 +1,54 @@
+¡Bienvenido a NextU!
+Victor Wilson Flores Perez
+Hola,
+Pedro Arce
+Hola amigo
+Cerraste el chat
+Victor Wilson Flores Perez
+Estimado Pedro,
+Pedro Arce
+te decia que me dijeras el dia
+para revisar
+:)
+tu evaluacion
+Victor Wilson Flores Perez
+cambie de ventana y se cerro el chat, para verificar la fecha,
+porque no recordaba,
+en el sistema indica
+wednesday 20 september 2017
+8:28
+Pedro Arce
+Listo perfecto
+regalame unos minutos la busco reviso y te digo
+Victor Wilson Flores Perez
+espero, gracias!!!
+Pedro Arce
+Listo victor
+Bueno mira, la calificacion que sacaste fue baja por que aunque a nivel funcional casi todo es correcto
+en las rubricas se evaluan otras cosas
+por ejemplo no adjuntaste el txt con el link del repositorio de gitHUB
+El proyecto no se encuentra organizado en carpetas como se enseña en el curso, la validación en el campo Institución no se realiza, usar la propiedad value para mostrar información para el usuario no es correcto, lo ideal es usar placeholder.
+Muy poca organización en el código, uso excesivo de espacios en blanco, debes tener en cuenta los niveles de indentación en las etiquetas añadiendo un tab.
+Con organizar en carpetas organizar un poco mas el codigo
+y subirlo a github
+quedaria perfecto
+Victor Wilson Flores Perez
+podria ser,
+sin embargo no estoy de acuerdo con lo indicado,
+discrepo con la manera de corregir, sin embargo, hay detalles que pueden marcar una diferencia como el caso de gitHUB, asimismo, en la descripción del examen no piden eso,
+igualmente voy a revisar lo indicado, adecuar el codigo y volver a presentarlo,
+en el camino de tener o requerir alguna ayuda, voy a enviarles por este medio,
+lo complicado que esta ventana de chat, no lo ubico siempre,
+tuve que ingresar por otro curso y hacer la consulta,
+hay algun horario de atención?
+Pedro Arce
+5:24 pm
+Si claro amigo
+estamos disponibles
+desde las 8am hasta las 12am
+5:25 pm
+y el sabado y domingo de 10am a 10pm
+Victor Wilson Flores Perez
+bien, muchas gracias, por la información
+ Leído
+Pedro Arce está escribiendo
